@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<body style="background-image: url(./IMG_2737.jpg); background-size: cover; height: 100vh; margin: 0;">
+
+    <div id="MES" style="background-color: #ADD8E6; padding: 20px; border-radius: 16px; width: 50%; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+
+        <p id="header">
+            MOVE ME!!!
+        </p>
+
+        <h1 style="margin: 4px;">Welcome to my OS</h1>
+        <p>Hello World</p>
+        <img style="width: 100px; height: 100px" src="scott.png" alt="Scott Image" />
+
+        <p><a href="https://www.instagram.com/ale777866/">My Insta</a></p>
+
+        <p>My favorite <a href="https://open.spotify.com/playlist/0izjQGcke2APzby2nHHYxq?si=2cc731e5554f457e">playlist</a></p>
+        <h2>Stuff about me ;)</h2>
+        <p>I like to hombrew consoles especially my psp go, Wii and DSI</p>
+        <p>I like animation but don't know how to draw so I'm making this to get hours to get a drawing tablet, I know some people say it doesn't matter what tool you have well <strong>SHUSH I WANT IT</strong></p>
+        <p>I like old technology and retro stuff I collect consoles (btw I have gotten most of my consoles by doing peoples homework so do that if you want consoles)</p>
+        <p>Recently I have been into comics and graphic novels you probably can't tell but I like Scott Pilgrim</p>
+
+    </div>
+
+    <div id="header" style="display: flex; justify-content: space-around; position: absolute; width: 100%; backdrop-filter: blur(10px); background-color: rgba(0, 0, 0, 0.25);">
+
+        <p><strong>Ale OS</strong></p>
+        <p>🏫 Trying to get into a good college 👩‍🎓</p>
+        <p id="timeElement"><strong>8/7/2024 10:34 PM</strong></p>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
